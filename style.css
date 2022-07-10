@@ -1,0 +1,51 @@
+#gamediv{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+
+
+
+#rockbtn{
+    background-color: white;
+
+    color: red;
+    border-color: red;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+#papbtn{
+    background-color: white;
+
+    color: blue;
+    border-color: blue;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+#scibtn{
+    background-color: white;
+
+    color: green;
+    border-color: green;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+
+.choice{
+    line-height: 30px;
+    width: 150px;
+}
+
+.choice:hover{
+    font-size: 12px;
+    
+}
